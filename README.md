@@ -1,9 +1,10 @@
 ### Hi there 👋
+### I'm Ammar
 
 - 🔭 I’m currently study on computer science
 - 🌱 I’m currently learning frontend web development
 - 👯 I’m looking to collaborate on graphic design or frontend web deveploment
-- 🤔 I’m looking for help with javascript, react, data structures, and algortihm
+- 🤔 I’m looking for help with javascript, react, data structures, and algorithm
 - 📫 You can reach me on <a href="https://www.instagram.com/abdmmar">Instagram</a>
 - 😄 Pronouns: Comrade!
 - ⚡ Fun fact: I'm a graphic design enthusiast
