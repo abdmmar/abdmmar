@@ -1,7 +1,6 @@
-### Hi there 👋
-### I'm Ammar
+### Hi there 👋 I'm Ammar 🧑
 
-- 🔭 I’m currently study on computer science
+- 🔭 I’m currently studying on computer science
 - 🌱 I’m currently learning frontend web development
 - 👯 I’m looking to collaborate on graphic design or frontend web deveploment
 - 🤔 I’m looking for help with javascript, react, data structures, and algorithm
