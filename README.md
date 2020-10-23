@@ -1,5 +1,2 @@
-░█▄█░█░█░░░█░▀░█▄▒▄█░░▒▄▀▄░█▄▒▄█░█▄▒▄█▒▄▀▄▒█▀▄
-▒█▒█░█░▄▒░░█░░░█▒▀▒█▒░░█▀█░█▒▀▒█░█▒▀▒█░█▀█░█▀▄
-
- **_A student and graphic design enthusiast, passionate about frontend development and graphic design, currently learning Javascript and React._**
- 
+**Hi! I'm Ammar**, a computer science student and graphic design enthusiast who passionate
+to build something fun and useful. Currently learning ReactJS and contributing to open source.
