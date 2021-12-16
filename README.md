@@ -1,10 +1,12 @@
 ## Hi! I'm Ammar, 
 
-A computer science student and graphic design enthusiast who is passionate to build something fun and useful.
+a student who likes to build things about the web and graphic design. Interested in user interface, accesibility, and web performance.
 
 ### Currently
 
-- Learning Typescript, Testing, and Software Engineering in General.
+- Writing thesis proposal
+- Crafting [wc-toast](https://github.com/abdmmar/wc-toast)
+- Learning Scala, AST, and Software Engineering in General.
 - Building and writing on my digital garden at [abdmmar.tech](https://abdmmar.tech)
 - Trying to contribute to open source project
 
