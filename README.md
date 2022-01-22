@@ -4,8 +4,7 @@ a student who likes to build things about the web and graphic design. Interested
 
 ### Currently
 
-- Writing thesis proposal
-- Crafting [wc-toast](https://github.com/abdmmar/wc-toast)
+- Crafting user interface with basic tools at my [playground](play.abdmmar.tech)
 - Learning Scala, AST, and Software Engineering in General.
 - Building and writing on my digital garden at [abdmmar.tech](https://abdmmar.tech)
 - Trying to contribute to open source project
