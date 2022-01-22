@@ -6,7 +6,7 @@ a student who likes to build things about the web and graphic design. Interested
 
 - Crafting user interface with basic tools at my [playground](play.abdmmar.tech)
 - Learning Scala, AST, and Software Engineering in General.
-- Building and writing on my digital garden at [abdmmar.tech](https://abdmmar.tech)
+- Building and writing on my digital garden at [abdmmar.com](https://abdmmar.com)
 - Trying to contribute to open source project
 
 ### Stats
